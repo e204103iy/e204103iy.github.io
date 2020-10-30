@@ -1,0 +1,27 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:black;
+}
+
+h2{
+    color:#0086ff;
+    text-align:center;
+    background-color:#00ff99;
+}
+
+h3{
+    color:darkblue;
+}
+
+p{
+    color:sienna;
+}
+
+a{
+    color:red;
+}
+
+body{
+    background-images:url(../images/back_kadai1.jpg);
+}
