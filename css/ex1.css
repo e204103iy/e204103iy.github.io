@@ -1,0 +1,31 @@
+h1{
+    color:aquamarine;
+    text-align:center;
+    background-color:magenta;
+}
+
+h2{
+    color:#0086ff;
+    text-align:center;
+    background-color:#00ff99;
+}
+
+ol{
+    background-image:url(../images/back2.png);
+}
+
+table{
+    background-color:chartreuse;
+}
+
+a{
+    color:blue;
+}
+
+body{
+    background-image:url(../images/back_kadai.jpg);
+}
+
+th{
+    font-size:15px;
+}
