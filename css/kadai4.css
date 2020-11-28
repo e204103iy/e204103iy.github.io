@@ -1,0 +1,23 @@
+.bluecolor{
+    color:blue;
+    background-color:lightpink;
+}
+
+h1#rink{
+    color: orange;
+    background-color: aqua;
+}
+
+.gcolor{
+    background-color:palevioletred;
+    color:teal;
+}
+
+.acolor{
+    background-color: aquamarine;
+    color:darkviolet;
+}
+
+body{
+    background-image: url(../images/back_kadai.jpg);
+}
