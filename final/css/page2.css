@@ -1,0 +1,109 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+
+body{
+    background-image: url(../images/back.jpg);
+}
+
+div.title{
+    width:1000px;
+    height:50px;
+    text-align: center;
+    background-color:palegreen;
+    font-size: 30px;
+    padding : 10px 0px 0px 0px;
+}
+
+div.center{
+    display: inline-block;
+    font-size:0;
+    width:1000px;
+}
+
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width:1000px;
+    height:40px;
+    margin-top: 20px;
+}
+
+div.menu1{
+    display: inline-block;
+    width:300px;
+    height:40px;
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: gainsboro;
+}
+
+div.menu2{
+    display: inline-block;
+    width:394px;
+    height:40px;
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: palegreen;
+}
+
+div.menu3{
+    display: inline-block;
+    width:300px;
+    height:40px;
+    font-size: 15px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: gainsboro;
+}
+
+div.image{
+    display: inline-block;
+    vertical-align: top;
+    width:1000px;
+    height:320px;
+    margin-top: 20px;
+}
+
+div.image1{
+    display: inline-block;
+    width:498px;
+    height:300px;
+    border: 1px solid black;
+    background-image: url(../images/cat3.jpeg)
+}
+
+div.image2{
+    display: inline-block;
+    width:498px;
+    height:300px;
+    border: 1px solid black;
+    background-image: url(../images/cat.jpg) 
+}
+
+div.t{
+    display: inline-block;
+    width:1000px;
+    height;20px;
+    color:white;
+    background-color: dimgray;
+}
+
+div.s{
+    display: inline-block;
+    width:1000px;
+    height;20px;
+    background-color: whitesmoke;
+}
+
+div.footer{
+    width:1000px;
+    height:20px;
+    background-color:lightcyan;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 20px;
+}
